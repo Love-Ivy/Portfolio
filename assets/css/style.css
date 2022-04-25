@@ -6,3 +6,22 @@ body {
   background-color: var(--bgc);
   color: var(--tc);
 }
+.webpage.application {
+  display: flexbox;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding: 20px;
+}
+
+iframe {
+  width: 800px;
+  height: 400px;
+}
+
+.application > p {
+  border: solid;
+  padding: 20px;
+  width: 800px;
+  height: 400px;
+}
