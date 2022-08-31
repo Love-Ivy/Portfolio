@@ -1,24 +1,37 @@
-# Ivy Lovegood - Portfolio
+# Portfolio: Ivy Lovegood
+## Description
+Collection of applications and projects created by Ivy Lovegood
+## Screenshot 
+![Screenshot](/assets/images/screenshot.png)
+    
 
-**What does this do?**
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Links](#links)
+- [Credits](#credits)
+- [License](#license)
 
-- A simple portfolio to display works authored and co-authored by Ivy Lovegood
+## Installation
+Installation is not required
 
-<!-- **Step-by-Step on how to run the application**
+## Usage
+Browse my works, click on the links to visit the deployed applications or the Github repositories.
 
-- How work -->
+## Links
+- Deployment: This project is not deployed 
+- Repository: https://github.com/Love-Ivy/Portfolio
 
-**Screenshot of deployed application**
-![Screenshot](./assets/images/screenshot.png)
+## Credits
+- Creator: Ivy Lovegood 
+- Github: https://github.com/Love-Ivy
 
-**Links**
-Website: https://love-ivy.github.io/Portfolio/
-GitHub Repository: https://github.com/Love-Ivy/Portfolio
+## License
+None
 
-**Technologies Used**
 
-- html
-- css
 
-**Author**
-Created by Ivy Lovegood
+
+## Questions?
+Email me at: ivyroselovegood@gmail.com
+
