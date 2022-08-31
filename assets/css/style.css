@@ -18,6 +18,14 @@ header h1 {
   color: #937ca4;
   text-shadow: 1px 1px 1px #677791;
 }
+#networklinks {
+  color: #677791;
+  font-size: smaller;
+  margin: 0;
+}
+#networklinks a {
+  color: #677791;
+}
 
 main {
   margin: 30px;
